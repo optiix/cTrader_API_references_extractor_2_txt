@@ -17,12 +17,18 @@ EXAMPLE OF JSON OUTPUT:
         "Properties": "Summary AcceleratorOscillator calculation result Signature 1public abstract IndicatorDataSeries Result {get;} Return Value IndicatorDataSeries Examples",
         "Examples": []
     },
+
+
+    
     "AccessRights": {
         "Title": "AccessRights",
         "Summary": "cBots and Indicators Access Rights. Signature 1public enum AccessRights",
         "Namespace": "cAlgo.API",
         "Examples": []
     },
+
+
+    
     "AccountType": {
         "Title": "AccountType",
         "Summary": "Returns current account type Signature 1public enum AccountType",
